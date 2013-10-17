@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tl_code/!svn/ver/78/Time_Logger/src/timelogger/presentation/graphicCommand/manager
+END
+EditDataSubProjectCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/tl_code/!svn/ver/43/Time_Logger/src/timelogger/presentation/graphicCommand/manager/EditDataSubProjectCommand.java
+END
+ConfirmEditDataSubProjectCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/tl_code/!svn/ver/43/Time_Logger/src/timelogger/presentation/graphicCommand/manager/ConfirmEditDataSubProjectCommand.java
+END
+CreateTaskCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tl_code/!svn/ver/78/Time_Logger/src/timelogger/presentation/graphicCommand/manager/CreateTaskCommand.java
+END
+ConfirmSubProjectPopupCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/tl_code/!svn/ver/66/Time_Logger/src/timelogger/presentation/graphicCommand/manager/ConfirmSubProjectPopupCommand.java
+END
+EditSubProjectCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/tl_code/!svn/ver/71/Time_Logger/src/timelogger/presentation/graphicCommand/manager/EditSubProjectCommand.java
+END
+MainManagerWindowCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/tl_code/!svn/ver/78/Time_Logger/src/timelogger/presentation/graphicCommand/manager/MainManagerWindowCommand.java
+END
+FillTaskListNotStartedCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/tl_code/!svn/ver/78/Time_Logger/src/timelogger/presentation/graphicCommand/manager/FillTaskListNotStartedCommand.java
+END
+FillTaskListCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tl_code/!svn/ver/71/Time_Logger/src/timelogger/presentation/graphicCommand/manager/FillTaskListCommand.java
+END
+UndoDataSubProjectCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/tl_code/!svn/ver/38/Time_Logger/src/timelogger/presentation/graphicCommand/manager/UndoDataSubProjectCommand.java
+END
+SubProjResumeCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tl_code/!svn/ver/2/Time_Logger/src/timelogger/presentation/graphicCommand/manager/SubProjResumeCommand.java
+END

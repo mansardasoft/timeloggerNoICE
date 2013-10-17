@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tl_code/!svn/ver/84/Time_Logger/src/timelogger/domain
+END
+ClienteFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/ClienteFactory.java
+END
+TimeRecordDetachedCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/TimeRecordDetachedCriteria.java
+END
+Admin.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/Admin.java
+END
+ManagerCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/ManagerCriteria.java
+END
+Persona.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tl_code/!svn/ver/65/Time_Logger/src/timelogger/domain/Persona.java
+END
+TimeRecordFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/TimeRecordFactory.java
+END
+ClienteDetachedCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/ClienteDetachedCriteria.java
+END
+Fattura.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/Fattura.java
+END
+ProgettoFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/ProgettoFactory.java
+END
+FatturaListCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/FatturaListCollection.java
+END
+Task.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tl_code/!svn/ver/47/Time_Logger/src/timelogger/domain/Task.java
+END
+ORMConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/ORMConstants.java
+END
+TaskFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/TaskFactory.java
+END
+ProgettoCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/ProgettoCriteria.java
+END
+Consulente.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/Consulente.java
+END
+TaskListCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/TaskListCollection.java
+END
+FatturaFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/FatturaFactory.java
+END
+AdminDetachedCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/AdminDetachedCriteria.java
+END
+PersonaDetachedCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/PersonaDetachedCriteria.java
+END
+TimeRecordCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/TimeRecordCriteria.java
+END
+AdminFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/AdminFactory.java
+END
+FatturaDetachedCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/FatturaDetachedCriteria.java
+END
+ClienteCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/ClienteCriteria.java
+END
+TimeloggerPersistentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/TimeloggerPersistentManager.java
+END
+Utente.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/Utente.java
+END
+FatturaFinale.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/FatturaFinale.java
+END
+SottoProgetto.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tl_code/!svn/ver/84/Time_Logger/src/timelogger/domain/SottoProgetto.java
+END
+TaskDetachedCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/TaskDetachedCriteria.java
+END
+SottoProgettoListCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/SottoProgettoListCollection.java
+END
+ConsulenteDetachedCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/ConsulenteDetachedCriteria.java
+END
+FatturaParziale.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/FatturaParziale.java
+END
+FatturaFinaleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/FatturaFinaleFactory.java
+END
+AdminCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/AdminCriteria.java
+END
+Manager.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tl_code/!svn/ver/65/Time_Logger/src/timelogger/domain/Manager.java
+END
+PersonaCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/PersonaCriteria.java
+END
+UtenteDetachedCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/UtenteDetachedCriteria.java
+END
+SottoProgettoSetCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/SottoProgettoSetCollection.java
+END
+FatturaFinaleDetachedCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/FatturaFinaleDetachedCriteria.java
+END
+ConsulenteFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/ConsulenteFactory.java
+END
+SottoProgettoDetachedCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/SottoProgettoDetachedCriteria.java
+END
+FatturaCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/FatturaCriteria.java
+END
+FatturaParzialeDetachedCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/FatturaParzialeDetachedCriteria.java
+END
+Progetto.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tl_code/!svn/ver/51/Time_Logger/src/timelogger/domain/Progetto.java
+END
+TaskCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/TaskCriteria.java
+END
+ConsulenteCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/ConsulenteCriteria.java
+END
+PersonaFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/PersonaFactory.java
+END
+ManagerDetachedCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/ManagerDetachedCriteria.java
+END
+TimeRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tl_code/!svn/ver/71/Time_Logger/src/timelogger/domain/TimeRecord.java
+END
+ManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/ManagerFactory.java
+END
+ProgettoSetCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/ProgettoSetCollection.java
+END
+TimeRecordListCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/TimeRecordListCollection.java
+END
+Cliente.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tl_code/!svn/ver/65/Time_Logger/src/timelogger/domain/Cliente.java
+END
+UtenteCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/UtenteCriteria.java
+END
+FatturaParzialeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/FatturaParzialeFactory.java
+END
+FatturaFinaleCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/FatturaFinaleCriteria.java
+END
+SottoProgettoCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/SottoProgettoCriteria.java
+END
+ProgettoDetachedCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/ProgettoDetachedCriteria.java
+END
+SottoProgettoFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/SottoProgettoFactory.java
+END
+FatturaParzialeCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tl_code/!svn/ver/40/Time_Logger/src/timelogger/domain/FatturaParzialeCriteria.java
+END
+UtenteFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tl_code/!svn/ver/50/Time_Logger/src/timelogger/domain/UtenteFactory.java
+END

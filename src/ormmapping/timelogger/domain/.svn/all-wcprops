@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tl_code/!svn/ver/41/Time_Logger/src/ormmapping/timelogger/domain
+END
+Progetto.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tl_code/!svn/ver/41/Time_Logger/src/ormmapping/timelogger/domain/Progetto.hbm.xml
+END
+Task.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tl_code/!svn/ver/41/Time_Logger/src/ormmapping/timelogger/domain/Task.hbm.xml
+END
+SottoProgetto.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tl_code/!svn/ver/41/Time_Logger/src/ormmapping/timelogger/domain/SottoProgetto.hbm.xml
+END
+Fattura.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tl_code/!svn/ver/41/Time_Logger/src/ormmapping/timelogger/domain/Fattura.hbm.xml
+END
+Persona.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tl_code/!svn/ver/41/Time_Logger/src/ormmapping/timelogger/domain/Persona.hbm.xml
+END
+TimeRecord.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tl_code/!svn/ver/41/Time_Logger/src/ormmapping/timelogger/domain/TimeRecord.hbm.xml
+END

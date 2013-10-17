@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/tl_code/!svn/ver/41/Time_Logger/src/ormmapping
+END
+database.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tl_code/!svn/ver/38/Time_Logger/src/ormmapping/database.cfg.xml
+END
+Timelogger.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tl_code/!svn/ver/38/Time_Logger/src/ormmapping/Timelogger.cfg.xml
+END
+Timelogger.erd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tl_code/!svn/ver/38/Time_Logger/src/ormmapping/Timelogger.erd.xml
+END

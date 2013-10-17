@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/tl_code/!svn/ver/89/Time_Logger/src/ormsamples
+END
+RetrieveAndUpdateTimeloggerData.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tl_code/!svn/ver/41/Time_Logger/src/ormsamples/RetrieveAndUpdateTimeloggerData.java
+END
+DropTimeloggerDatabaseSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tl_code/!svn/ver/41/Time_Logger/src/ormsamples/DropTimeloggerDatabaseSchema.java
+END
+ListTimeloggerData.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tl_code/!svn/ver/88/Time_Logger/src/ormsamples/ListTimeloggerData.java
+END
+CreateTimeloggerDatabaseSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tl_code/!svn/ver/41/Time_Logger/src/ormsamples/CreateTimeloggerDatabaseSchema.java
+END
+CreateTimeloggerData.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tl_code/!svn/ver/89/Time_Logger/src/ormsamples/CreateTimeloggerData.java
+END
+DeleteTimeloggerData.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tl_code/!svn/ver/41/Time_Logger/src/ormsamples/DeleteTimeloggerData.java
+END

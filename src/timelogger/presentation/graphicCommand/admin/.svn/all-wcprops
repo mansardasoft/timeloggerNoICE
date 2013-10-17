@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tl_code/!svn/ver/66/Time_Logger/src/timelogger/presentation/graphicCommand/admin
+END
+CreateProjectCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tl_code/!svn/ver/5/Time_Logger/src/timelogger/presentation/graphicCommand/admin/CreateProjectCommand.java
+END
+ConfirmProjectPopupCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/tl_code/!svn/ver/66/Time_Logger/src/timelogger/presentation/graphicCommand/admin/ConfirmProjectPopupCommand.java
+END
+RemoveSubProjResumeCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tl_code/!svn/ver/2/Time_Logger/src/timelogger/presentation/graphicCommand/admin/RemoveSubProjResumeCommand.java
+END
+MainAdminWindowCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/tl_code/!svn/ver/43/Time_Logger/src/timelogger/presentation/graphicCommand/admin/MainAdminWindowCommand.java
+END
+RemoveInvoiceResumeCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/tl_code/!svn/ver/2/Time_Logger/src/timelogger/presentation/graphicCommand/admin/RemoveInvoiceResumeCommand.java
+END
+InvoiceResumeCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/tl_code/!svn/ver/2/Time_Logger/src/timelogger/presentation/graphicCommand/admin/InvoiceResumeCommand.java
+END

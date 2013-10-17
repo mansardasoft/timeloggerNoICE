@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tl_code/!svn/ver/84/Time_Logger/src/timelogger/control/operation
+END
+OperationCreateNewInvoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tl_code/!svn/ver/48/Time_Logger/src/timelogger/control/operation/OperationCreateNewInvoice.java
+END
+OperationRetrieveAllConsulents.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/tl_code/!svn/ver/57/Time_Logger/src/timelogger/control/operation/OperationRetrieveAllConsulents.java
+END
+OperationVerifyTRData.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tl_code/!svn/ver/57/Time_Logger/src/timelogger/control/operation/OperationVerifyTRData.java
+END
+OperationRetrieveSubProjNotStarted.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/tl_code/!svn/ver/81/Time_Logger/src/timelogger/control/operation/OperationRetrieveSubProjNotStarted.java
+END
+OperationRetrieveManagersList.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/tl_code/!svn/ver/60/Time_Logger/src/timelogger/control/operation/OperationRetrieveManagersList.java
+END
+OperationVerifySPData.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tl_code/!svn/ver/43/Time_Logger/src/timelogger/control/operation/OperationVerifySPData.java
+END
+OperationChangeTaskConsulent.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tl_code/!svn/ver/57/Time_Logger/src/timelogger/control/operation/OperationChangeTaskConsulent.java
+END
+OperationFlyweightFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tl_code/!svn/ver/78/Time_Logger/src/timelogger/control/operation/OperationFlyweightFactory.java
+END
+OperationRetrieveTRTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tl_code/!svn/ver/71/Time_Logger/src/timelogger/control/operation/OperationRetrieveTRTask.java
+END
+OperationFlyweight.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tl_code/!svn/ver/2/Time_Logger/src/timelogger/control/operation/OperationFlyweight.java
+END
+OperationStoreNewTR.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tl_code/!svn/ver/74/Time_Logger/src/timelogger/control/operation/OperationStoreNewTR.java
+END
+OperationRetrieveClientsList.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tl_code/!svn/ver/60/Time_Logger/src/timelogger/control/operation/OperationRetrieveClientsList.java
+END
+OperationSetProjData.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tl_code/!svn/ver/57/Time_Logger/src/timelogger/control/operation/OperationSetProjData.java
+END
+OperationLogin.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tl_code/!svn/ver/57/Time_Logger/src/timelogger/control/operation/OperationLogin.java
+END
+OperationRemoveInvoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tl_code/!svn/ver/56/Time_Logger/src/timelogger/control/operation/OperationRemoveInvoice.java
+END
+OperationCreateNewSubProj.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tl_code/!svn/ver/84/Time_Logger/src/timelogger/control/operation/OperationCreateNewSubProj.java
+END
+OperationRetrieveTaskForConsulentList.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tl_code/!svn/ver/69/Time_Logger/src/timelogger/control/operation/OperationRetrieveTaskForConsulentList.java
+END
+OperationStoreProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tl_code/!svn/ver/57/Time_Logger/src/timelogger/control/operation/OperationStoreProject.java
+END
+OperationRetrieveSubProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/tl_code/!svn/ver/43/Time_Logger/src/timelogger/control/operation/OperationRetrieveSubProject.java
+END
+OperationCreateNewProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tl_code/!svn/ver/5/Time_Logger/src/timelogger/control/operation/OperationCreateNewProject.java
+END
+OperationRetrieveSubProjList.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tl_code/!svn/ver/57/Time_Logger/src/timelogger/control/operation/OperationRetrieveSubProjList.java
+END
+OperationStoreSP.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tl_code/!svn/ver/43/Time_Logger/src/timelogger/control/operation/OperationStoreSP.java
+END
+OperationRemoveSubProj.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tl_code/!svn/ver/56/Time_Logger/src/timelogger/control/operation/OperationRemoveSubProj.java
+END
+OperationLogout.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tl_code/!svn/ver/57/Time_Logger/src/timelogger/control/operation/OperationLogout.java
+END
