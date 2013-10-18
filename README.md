@@ -12,5 +12,5 @@ Installazione:
 
 Utenti creati all'avvio:
  * 1 utente di classe Administrator con credenziali "admin" , "a"
- * 1 utente di classe Manager con credenziali "manager", "a"
+ * 1 utente di classe Manager con credenziali "manager", "m"
  * 4 utenti di classe Consulente con credenziali "cons[i]" , "c" ove [i] è l'indice dell'i-esimo consulente
